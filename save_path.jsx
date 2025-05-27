@@ -1,1 +1,1 @@
-var savePath = "~/Desktop/Madame/knippingt/Upload/Retouched"; // or any desired path
+var savePath = "~/Desktop/Madame/USERNAME/Upload/Retouched"; // or any desired path
